@@ -1,4 +1,8 @@
 # PushNotificationNodeJS
+``` git clone https://github.com/krishnanath/PushNotificationNodeJS.git ```
+``` npm start ```
+
+starting server http://localhost:5000/
 
 # install web-push
 
