@@ -1,7 +1,7 @@
 # PushNotificationNodeJS
-``` git clone https://github.com/krishnanath/PushNotificationNodeJS.git 
+``` git clone https://github.com/krishnanath/PushNotificationNodeJS.git ```
 
-npm start ```
+``` npm start ```
 
 starting server http://localhost:5000/
 
